@@ -1,2 +1,5 @@
 # Analyzing-Mental-Health-in-the-Workplace
 Analyzed OSMI mental health survey to uncover factors affecting mental well-being in tech workplaces. Built an interactive dashboard using Plotly Dash to visualize correlations between benefits, gender, remote work, and mental health support systems.
+Step 1: Download and Clean the Dataset
+Step 2: Import into Power BI
+Step 3: Build Power BI Visuals
